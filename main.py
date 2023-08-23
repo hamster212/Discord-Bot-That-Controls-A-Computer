@@ -402,4 +402,4 @@ apps = {
 }
 
 
-bot.run('MTE0MjgzNzg3NTQxOTkxMDE5Nw.GXjlaG.xJ8TTzdnQw615E00Myx5gZDkXWyC8yg9VI5BgI')
+bot.run('YOUR TOKEN HERE')
